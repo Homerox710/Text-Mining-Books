@@ -1,2 +1,2 @@
 # Text-Mining-Books
-Análisis de palabras y sentimientos a lo largo del arco narrativo de los principales libros religiosos
+Siguiendo el ejemplo de este código, puedes realizar minería de texto para cualquiera de los 60,000 libros disponibles en [The Gutenberg Project](https://www.gutenberg.org/)
